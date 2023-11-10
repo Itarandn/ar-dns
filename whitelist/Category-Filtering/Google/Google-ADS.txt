@@ -1,0 +1,45 @@
+! Google 
+! Categories : AdService 
+! https://www.netify.ai/resources/applications/google-ads
+@@||googleapis.com^
+@@||2mdn.net^
+@@||adsense.google.com^
+@@||adservice.google.ca^
+@@||adservice.google.co.in^
+@@||adservice.google.co.kr^
+@@||adservice.google.com^
+@@||adservice.google.com.ar^
+@@||adservice.google.com.au^
+@@||adservice.google.com.br^
+@@||adservice.google.com.co^
+@@||adservice.google.com.gt^
+@@||adservice.google.com.mx^
+@@||adservice.google.com.pe^
+@@||adservice.google.com.ph^
+@@||adservice.google.com.pk^
+@@||adservice.google.com.tr^
+@@||adservice.google.com.tw^
+@@||adservice.google.com.vn^
+@@||adservice.google.co.uk^
+@@||adservice.google.co.za^
+@@||adservice.google.de^
+@@||adservice.google.dk^
+@@||adservice.google.es^
+@@||adservice.google.fr^
+@@||adservice.google.nl^
+@@||adservice.google.no^
+@@||adservice.google.pl^
+@@||adservice.google.ru^
+@@||adservice.google.vg^
+@@||app-measurement.com^
+@@||dai.google.com^
+@@||doubleclickbygoogle.com^
+@@||doubleclick.com^
+@@||doubleclick.net^
+@@||googleadservices.com^
+@@||googlesyndication-cn.com^
+@@||googlesyndication.com^
+@@||googletagservices.com^
+@@||gstaticadssl.l.google.com^
+@@||s0-2mdn-net.l.google.com^
+

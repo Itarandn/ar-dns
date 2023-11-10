@@ -1,0 +1,10 @@
+! Certificate : Digicert
+! Update : 18-SEP-2023
+@@||digicert.com^
+@@||ocsp.digicert.com^
+@@||updates.digicert.com^
+@@||digicert.tt.omtrdc.net^
+@@||www.digicert.com^
+@@||digicert.com^
+@@||digicert.com^
+@@||digicert.com^

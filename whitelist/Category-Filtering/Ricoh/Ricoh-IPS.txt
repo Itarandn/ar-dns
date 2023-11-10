@@ -1,0 +1,3 @@
+! Ricoh
+@@||gwpro1.support.ricoh.com^
+@@||gwpro2.support.ricoh.com^

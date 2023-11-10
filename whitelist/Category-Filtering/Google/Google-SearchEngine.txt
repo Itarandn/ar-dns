@@ -1,0 +1,5 @@
+! Google-SearchEngine
+! https://gist.githubusercontent.com/DessertArbiter/ba13c026c0d3058fd122e082898c2c84/raw/2bc7899ef29e59e6547ac3ee2ab0a2c57a93e4b0/google-services-whitelist.txt
+! Google
+@@||google.com^$important,document,~extension
+@@||google.co.th^$important,document,~extension

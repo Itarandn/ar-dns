@@ -1,0 +1,255 @@
+! Synology DSM 7.0 and later Website / Domain 
+! 18-SEP-2023
+! https://kb.synology.com/en-my/DSM/tutorial/What_websites_does_Synology_NAS_connect_to_when_running_services_or_updating_software
+!
+! DSM Update Download Site	
+!
+@@||global.download.synology.com^
+@@||global.synologydownload.com^
+@@||update7.synology.com^
+@@||autoupdate7.synology.com^
+! Release Update
+@@||synostatic.synology.com^
+!--------------------------------
+!
+! Analytics
+@@||analytics.synology.com^
+@@||synostatic.synology.com^
+@@||www.synology.com^
+!--------------------------------
+!
+! Package Center
+!
+@@||payment.synology.com^
+@@||account.synology.com^
+@@||global.download.synology.com^
+@@||download.synology.com^
+@@||www.synology.com^
+@@||www.synology.com/company/term_packagecenter.php^
+@@||pkgautoupdate7.synology.com^
+@@||pkgupdate7.synology.com^
+@@||pkgautoupdate.synologyupdate.com^
+@@||global.synologydownload.com^
+!--------------------------------
+!
+! Active Insight
+!
+@@||api.insight.synology.com^
+@@||collectorupdate7.synology.com^
+@@||collectorautoupdate7.synology.com^
+@@||subscribe.insight.synology.com^
+@@||supapi.synology.com^
+!--------------------------------
+!
+! Configuration Backup
+!
+@@||synoconf.synology.com^
+@@||synoconfkms.synology.com^
+!--------------------------------
+!
+! DDNS
+!
+@@||account.synology.com^
+@@||ddns.synology.com^
+!--------------------------------
+!
+! DDNS
+!
+@@||checkip.synology.com^
+@@||checkip.dyndns.org^
+@@||checkipv6.synology.com^
+!--------------------------------
+!
+! File Sharing
+!
+@@||gofile.me^
+!--------------------------------
+!
+! Help
+!
+@@||help.synology.com^
+!--------------------------------
+!
+! Port Connection Test	(Port 82)
+!
+@@||checkport.synology.com^
+@@||xxxxx^
+!--------------------------------
+!
+! Push Service
+!
+@@||sns.synology.com^
+@@||notification.synology.com^
+!--------------------------------
+!
+! QuickConnect
+!
+@@||global.quickconnect.to^
+@@||twc.quickconnect.to^
+@@||usc.quickconnect.to^
+@@||dec.quickconnect.to^
+@@||tylp.lp.cs.quickconnect.to^
+@@||orlp.lp.cs.quickconnect.to^
+@@||frlp.lp.cs.quickconnect.to^
+@@||typ1.punch.cs.quickconnect.to^
+@@||typ2.punch.cs.quickconnect.to^
+@@||orp1.punch.cs.quickconnect.to^
+@@||orp2.punch.cs.quickconnect.to^
+@@||frp1.punch.cs.quickconnect.to^
+@@||frp2.punch.cs.quickconnect.to^
+@@||frp3.punch.cs.quickconnect.to^
+@@||frp4.punch.cs.quickconnect.to^
+@@||signal1.fr.webrtc.quickconnect.to^
+@@||signal2.fr.webrtc.quickconnect.to^
+@@||signal3.fr.webrtc.quickconnect.to^
+@@||signal4.fr.webrtc.quickconnect.to^
+@@||signal1.or.webrtc.quickconnect.to^
+@@||signal2.or.webrtc.quickconnect.to^
+@@||signal1.ty.webrtc.quickconnect.to^
+@@||twr1.re.cs.quickconnect.to^
+@@||twr2.re.cs.quickconnect.to^
+@@||twr5.re.cs.quickconnect.to^
+@@||twr6.re.cs.quickconnect.to^
+@@||twr7.re.cs.quickconnect.to^
+@@||twr8.re.cs.quickconnect.to^
+@@||czr1.re.cs.quickconnect.to^
+@@||czr2.re.cs.quickconnect.to^
+@@||der3.re.cs.quickconnect.to^
+@@||der4.re.cs.quickconnect.to^
+@@||der7.re.cs.quickconnect.to^
+@@||der8.re.cs.quickconnect.to^
+@@||frr2.re.cs.quickconnect.to^
+@@||frr3.re.cs.quickconnect.to^
+@@||frr4.re.cs.quickconnect.to^
+@@||jpr4.re.cs.quickconnect.to^
+@@||jpr5.re.cs.quickconnect.to^
+@@||sgr3.re.cs.quickconnect.to^
+@@||sgr4.re.cs.quickconnect.to^
+@@||usr1.re.cs.quickconnect.to^
+@@||usr2.re.cs.quickconnect.to^
+@@||usr5.re.cs.quickconnect.to^
+@@||usr6.re.cs.quickconnect.to^
+@@||apiauth.quickconnect.to^
+@@||checkipv6.quickconnect.to^
+@@||checkip.webrtc.quickconnect.to^
+!--------------------------------
+!
+! Router/UPnP Database
+!
+@@||download.synology.com/routerdb^
+!--------------------------------
+!
+! Support Center
+!
+@@||account.synology.com^
+@@||kb.synology.com^
+@@||www.synology.com/company/legal/Services_Data_Collection_Disclosure#technical-support^
+@@||www.synology.com/company/legal/privacy^
+!--------------------------------
+!
+! Synology HDD/SSD Update Pack Download Site	
+!
+@@||dataupdate7.synology.com^
+@@||kb.synology.com^
+@@||dataautoupdate7.synology.com^
+@@||dataautoupdate7.synology.cn^
+!--------------------------------
+!
+! UPnP Compatibility Result Uploader
+!
+@@||report.synology.com/upload.php^
+!--------------------------------
+!
+! Add-on package : Advanced Media Extensions
+!
+@@||myds.synology.com^
+@@||license.synology.com^
+!
+! Add-on package : Antivirus Essential	
+!
+@@||database.clamav.net^
+@@||myds.synology.com^
+!
+! Add-on package : Antivirus by McAfee
+!
+@@||update.nai.com^
+@@||account.synology.com^
+@@||payment.synology.com^
+@@||myds.synology.com^
+!
+! Add-on package : C2 Identity Edge Server
+!
+@@||docker.io^
+!(For Europe)
+@@||identity.eu.c2.synology.com^
+!(For Taiwan)
+@@||identity.tw.c2.synology.com^
+!(For US)
+@@||ldap.identity.eu.c2.synology.com^
+!(For Europe)
+@@||identity.tw.c2.synology.com^
+!(For Taiwan)
+@@||ldap.identity.tw.c2.synology.com^
+!(For US)
+@@||ldap.identity.us.c2.synology.com^
+!
+! Add-on package : Cloud Sync
+!
+@@||update.synology.com^
+@@||synocloudsync.synology.com^
+!
+! Add-on package : Codec activation
+!
+@@||codecstatistic.synology.com/codec_feedback.php^
+!
+! Add-on package : Download Station
+!
+@@||update.synology.com/filehostupdate/getfilehosts.php^
+@@||update.synology.com/btsearchupdate/getServerInfo.php^
+!
+! Add-on package : Hybrid Share
+!
+! (For Europe)
+@@||eu.c2.synology.com^
+! (For Taiwan)
+@@||tw.c2.synology.com^
+! (For the US)
+@@||us.c2.synology.com^
+!
+! Add-on package : Hyper Backup to C2 Storage
+!
+! (For Europe)
+@@||eu.c2.synology.com
+! (For Taiwan)
+@@||tw.c2.synology.com^
+! (For the US)
+@@||us.c2.synology.com^
+!
+! Add-on package : MailPlus Server
+!
+@@||license.synology.com^
+!
+! Add-on package : Surveillance Station
+!
+@@||utyupdate.synology.com^
+@@||synosurveillance.synology.com^
+!
+! Add-on package : Synology Drive Server
+!
+@@||update.synology.com^
+@@||global.download.synology.com^
+@@||global.synologydownload.com^
+!
+! Add-on package : Synology Office
+!
+@@||help.synology.com/spreadsheet^
+!
+! Add-on package : Synology Photos
+!
+@@||global.geo.synology.com/multilingual_reverse.php^
+!--------------------------------
+!
+! Anti Virus clamav
+!
+@@||current.cvd.clamav.net^
+!--------------------------------

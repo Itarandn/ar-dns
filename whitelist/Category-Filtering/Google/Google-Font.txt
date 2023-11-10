@@ -1,0 +1,3 @@
+! Google Font
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^

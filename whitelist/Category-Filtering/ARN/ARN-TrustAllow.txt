@@ -1,0 +1,50 @@
+! E-Mail ar2005.com
+@@||ar2005.com^
+@@||arandn.com^
+!
+!
+!�ӹѡ�ҹ����صԸ���
+@@||ledwebsite.led.go.th^
+@@||smpmc.coj.go.th^
+@@||efiling3.coj.go.th^
+@@||coj.go.th^
+@@||https://cios.coj.go.th/index.html^
+@@||ledwebsite.led.go.th^
+@@||led.go.th^
+@@||cios.coj.go.th^
+! eservices.nhso
+@@||nhso.go.th^
+@@||https://eservices.nhso.go.th/eServices/mobile/login.xhtml^
+!
+! ��� ��þҡ�
+@@||rd.go.th^
+!
+! ��Ҥ��
+@@||kasikornbank.com^
+@@||https://kcashconnectplus.kasikornbank.com^
+@@||ttbbank.com^
+!
+!
+! Product : ESB OA
+@@||secoa2.easybuy.co.th^
+!
+! Product : Thisshop
+@@||oa.thisshop.com^
+!
+! TTB OA Management
+@@||oamweb.ttbbank.com^
+@@||ttbbank.com^
+@@||https://oamweb.ttbbank.com/iCollection/login^
+!
+! Search company
+@@||www.dataforthai.com^
+@@||dataforthai.com^
+!
+! AR Domain arn-associates.co.th
+@@||pop.arn-associates.co.th^
+@@||arn-associates.co.th^
+! AR Domain arn-associates.co.th
+@@||ar2005.com^
+@@||arandn.com^
+! AR Intranet
+@@||arn.th^

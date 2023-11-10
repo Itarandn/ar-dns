@@ -1,0 +1,4 @@
+! Google LLC
+! Categories : CDN, Embedded Content,
+! https://slayterdev.github.io/tracker-radar-wiki/domains/jnn-pa.googleapis.com.html
+@@||jnn-pa.googleapis.com^$important

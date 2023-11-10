@@ -1,0 +1,15 @@
+! -------------------
+! Windows 11 Enterprise
+! Diagnostic Data Article 06/24/2023
+! Protocal : TLSv1.2/HTTP
+! 	The following endpoints are used by the Connected User Experiences and Telemetry component and connects to the Microsoft Data Management service. If you turn off traffic for this endpoint, diagnostic and usage information, 
+! which helps Microsoft find and fix problems and improve our products and services, won't be sent back to Microsof
+! https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+! -------------------
+||self.events.data.microsoft.com^
+||v10.events.data.microsoft.com^
+||telecommand.telemetry.microsoft.com^
+||watson.*.microsoft.com^
+||www.telecommandsvc.microsoft.com
+! ***********************************
+! -------------------

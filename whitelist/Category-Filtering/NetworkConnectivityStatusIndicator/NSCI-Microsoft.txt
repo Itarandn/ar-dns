@@ -1,0 +1,35 @@
+! Windows 10 or later versions
+@@||msftconnecttest.com^$important
+@@||www.msftconnecttest.com^$important
+@@||www.msftconnecttest.com^$important,document
+@@||login.microsoftonline.com^$important
+! Windows 8.1 or earlier versions
+@@||msftncsi.com^$important
+@@||www.msftncsi.com^$important
+@@||www.msftncsi.com^$important,document
+! Windows 11 Enterprise connection endpoints
+! https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+! -------------------
+! Category : Network Connection Status Indicator (NCSI)
+! Protocal : HTTPS
+! Destination : Network Connection Status Indicator (NCSI) detects Internet connectivity and corporate network connectivity status. 
+! NCSI sends a DNS request and HTTP query to this endpoint to determine if the device can communicate with the Internet. If you turn off traffic for this endpoint, 
+! NCSI won't be able to determine if the device is connected to the internet, and the network status tray icon will show a warning.
+! <----- Filter ------>
+@@||www.msftconnecttest.com*^
+@@||ipv6.msftconnecttest.com^
+! ***********************************
+! Category : Microsoft Defender Antiviruss
+! Protocal : HTTPS/TLSv1.2
+! Destination : The following endpoint is used for Windows Defender when Cloud-based Protection is enabled.
+!  If you turn off traffic for this endpoint, the device won't use Cloud-based Protection.
+! <----- Filter ------>
+@@||wdcp.microsoft.com^
+@@||*smartscreen-prod.microsoft.com^
+@@||checkappexec.microsoft.com^
+! ***********************************
+! Category : Certificates
+! Protocal : TLSv1.2/HTTPS/HTTP
+! <----- Filter ------>
+@@||tldl.windowsupdate.com^
+! ***********************************
