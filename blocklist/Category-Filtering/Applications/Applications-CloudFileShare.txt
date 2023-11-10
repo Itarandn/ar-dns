@@ -1,0 +1,90 @@
+!
+! FILE SHARING
+! See: https://www.netify.ai/resources/applications
+!
+!----------------------------------------------------------
+! 4SHARED
+!
+||4sharedapi.com^
+||4shared.com^
+||4s.io^
+!----------------------------------------------------------
+!
+! Box
+!
+||boxcdn.net^
+||boxcloud.com^
+||box.com^
+||box.net^
+!----------------------------------------------------------
+!
+! DROPBOX APPLICATION
+!
+||db.tt^
+||dropboxapi.com^
+||dropboxbusiness.com^
+||dropboxcaptcha.com^
+||dropbox.com^
+||dropbox-dns.com^
+||dropboxforum.com^
+||dropboxforums.com^
+||dropboxinsiders.com^
+||dropboxmail.com^
+||dropboxpartners.com^
+||dropboxpayments.com^
+||dropboxstatic.com^
+||dropboxteam.com^
+||dropbox.tech^
+||dropboxusercontent.com^
+||getdropbox.com^
+||oneclient.sfx.ms^
+!----------------------------------------------------------
+!
+! FASTDRIVE APPLICATION
+!
+||fastdrive.io^
+||fastdrive.link^
+!----------------------------------------------------------
+!
+! IDRIVE APPLICATION
+!
+||idrive.com^
+||idriveonlinebackup.com^
+!----------------------------------------------------------
+!
+! MEDIAFIRE APPLICATION
+!
+||mediafire.com^
+||mediafire.dev^
+!----------------------------------------------------------
+!
+! MICROSOFT ONEDRIVE APPLICATION
+!
+||1drv.com^
+||1drv.ms^
+||docs.live.net^
+||l-0003.l-dc-msedge.net^
+||l-0003.l-msedge.net^
+||l-0004.l-dc-msedge.net^
+||l-0004.l-msedge.net^
+||livefilestore.com^
+||odwebb.svc.ms^
+||odwebdf.svc.ms^
+||odwebpl.svc.ms^
+||odwebp.svc.ms^
+||onedrive.com^
+||onedrive.live.com^
+||settings.live.net^
+||skyapi.live.net^
+||skyapi.policies.live.net^
+||skydrivesync.policies.live.net^
+||storage.live.com^
+||windows.policies.live.net^
+!----------------------------------------------------------
+!
+! MEGA APPLICATION
+!
+||mega.co.nz^
+||mega.io^
+||mega.nz^
+!----------------------------------------------------------

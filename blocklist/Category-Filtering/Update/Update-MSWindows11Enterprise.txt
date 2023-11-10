@@ -1,0 +1,227 @@
+!
+! Source : https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+! Apps HTTP
+! The following endpoint is used for the Weather app. To turn off traffic for this endpoint, either uninstall the Weather app or disable the Microsoft Store. 
+!If you disable the Microsoft store, other Store apps can't be installed or updated. Additionally, the Microsoft Store won't be able to revoke malicious Store apps and users will still be able to open them.
+||tile-service.weather.microsoft.com^
+! -------------------
+! Apps : Onenote
+! Protocal : TLSv1.2/HTTPS/HTTP
+! The following endpoint is used for OneNote Live Tile. To turn off traffic for this endpoint, either uninstall OneNote or disable the Microsoft Store. If you disable the Microsoft store, other Store apps can't be installed or updated. Additionally, the Microsoft Store won't be able to revoke malicious Store apps and users will still be able to open them.
+! -------------------
+||cdn.onenote.net^
+! ***********************************
+! Apps : Office 365
+! Protocal : TLSv1.2/HTTPS
+! 	The following endpoint is used by the Photos app to download configuration files, and to connect to the Office 365 portal's shared infrastructure, including Office in a browser. To turn off traffic for this endpoint, either uninstall the Photos app or disable the Microsoft Store. If you disable the Microsoft store, other Store apps can't be installed or updated. Additionally, the Microsoft Store won't be able to revoke malicious Store apps and users will still be able to open them.
+! -------------------
+||evoke-windowsservices-tas.msedge.net^
+! ***********************************
+! -------------------
+! Cortana and Live Tiles
+! Protocal : TLSv1.2/HTTPS/HTTP
+! The following endpoints are related to Cortana and Live Tiles. If you turn off traffic for this endpoint, you'll block updates to Cortana greetings, tips, and Live Tiles.
+! -------------------
+||www.bing.com^
+||business.bing.com^
+||c.bing.com
+||th.bing.com^
+||c-ring.msedge.net^
+||fp.msedge.net^
+||I-ring.msedge.net^
+||s-ring.msedge.net^
+||dual-s-ring.msedge.net^
+||creativecdn.com^
+||edgeassetservice.azureedge.net^
+! ***********************************
+! -------------------
+! Device authentication	
+! Protocal : HTTPS
+! The following endpoint is used to authenticate a device. If you turn off traffic for this endpoint, the device won't be authenticated.
+! -------------------
+||login.live.com*^
+! ***********************************
+! -------------------
+! Device metadata
+! Protocal : HTTP
+! The following endpoint is used to retrieve device metadata. If you turn off traffic for this endpoint, metadata won't be updated for the device.
+! -------------------
+||dmd.metaservices.microsoft.com^
+! ***********************************
+! -------------------
+! Diagnostic Data
+! Protocal : TLSv1.2/HTTP
+! 	The following endpoints are used by the Connected User Experiences and Telemetry component and connects to the Microsoft Data Management service. If you turn off traffic for this endpoint, diagnostic and usage information, 
+! which helps Microsoft find and fix problems and improve our products and services, won't be sent back to Microsof
+! -------------------
+||self.events.data.microsoft.com^
+||v10.events.data.microsoft.com^
+||telecommand.telemetry.microsoft.com^
+||watson.*.microsoft.com^
+||www.telecommandsvc.microsoft.com
+! ***********************************
+! -------------------
+! Font Streaming	
+! Protocal : HTTPS
+! The following endpoint is used to download fonts on demand. If you turn off traffic for these endpoints, you won't be able to download fonts on demand.
+! -------------------
+||fs.microsoft.com^
+! ***********************************
+! -------------------
+! Licensing	
+! Protocal : TLSv1.2/HTTPS/HTTP
+! The following endpoint is used for online activation and some app licensing. To turn off traffic for this endpoint, disable the Windows License Manager Service. 
+! This will also block online activation and app licensing may not work.
+! -------------------
+||licensing.mp.microsoft.com^
+! ***********************************
+! -------------------
+! Location , Maps	
+! Protocal : TLSv1.2/HTTPS/HTTP
+! 	The following endpoints are used to check for updates to maps that have been downloaded for offline use. 
+! If you turn off traffic for this endpoint, offline maps won't be updated.
+! <----- Filter ------>
+||inference.location.live.net^
+||ecn.dev.virtualearth.net^
+||maps.windows.com^
+||ecn-us.dev.virtualearth.net^
+||maps.windows.com^
+||weathermapdata.blob.core.windows.net^
+! ***********************************
+! -------------------
+! Category : Microsoft Account
+! Protocal : TLSv1.2/HTTPS/HTTP
+! Destination : The following endpoint is used for Microsoft accounts to sign in. 
+! If you turn off traffic for these endpoints, users can't sign in with Microsoft accounts.
+! <----- Filter ------>
+||login.live.com^
+! ***********************************
+! -------------------
+! Category : Microsoft Edge
+! Protocal : TLSv1.2/HTTP HTTPs
+! Destination : This network traffic is related to the Microsoft Edge browser.
+!  The Microsoft Edge browser requires this endpoint to contact external websites.
+! <----- Filter ------>
+||edge.microsoft.com^
+||windows.msn.com^
+||edge.microsoft.com^
+||iecvlist.microsoft.com^
+||msedge.api.cdp.microsoft.com^
+! ***********************************
+! -------------------
+! Category : Microsoft Store	
+! Protocal : TLSv1.2/HTTPS HTTP
+! Destination : The following endpoints are used to download image files that are called when applications run (Microsoft Store or Inbox MSN Apps). 
+!             : If you turn off traffic for these endpoints, the image files won't be downloaded, 
+!             : and apps can't be installed or updated from the Microsoft Store. Additionally, the Microsoft Store won't be able to revoke malicious apps and users will still be able to open them. 
+! <----- Filter ------>
+||img-prod-cms-rt-microsoft-com.akamaized.net^
+||livetileedge.dsx.mp.microsoft.com^
+||storeedgefd.dsx.mp.microsoft.com^
+||*.wns.windows.com^
+||storecatalogrevocation.storequality.microsoft.com^
+||manage.devcenter.microsoft.com^
+||displaycatalog.mp.microsoft.com^
+||share.microsoft.com^
+||manage.devcenter.microsoft.com^
+! ***********************************
+! -------------------
+! Category : Microsoft To Do
+! Protocal : TLSv1.2/HTTPS HTTP
+! Destination : The following endpoints are used for the Microsoft To Do app.
+! <----- Filter ------>
+||staging.to-do.officeppe.com^
+||staging.to-do.microsoft.com^
+||storeedgefd.dsx.mp.microsoft.com^
+||to-do.microsoft.com^
+||storecatalogrevocation.storequality.microsoft.com^
+! ***********************************
+! -------------------
+! Category : Office
+! Protocal : HTTPS
+! Destination : Network Connection Status Indicator (NCSI) detects Internet connectivity and corporate network connectivity status. 
+! NCSI sends a DNS request and HTTP query to this endpoint to determine if the device can communicate with the Internet. If you turn off traffic for this endpoint, 
+! NCSI won't be able to determine if the device is connected to the internet, and the network status tray icon will show a warning.
+! <----- Filter ------>
+||www.office.com^
+||blobs.officehome.msocdn.com^
+||officehomeblobs.blob.core.windows.net^
+||self.events.data.microsoft.com^
+||outlookmobile-office365-tas.msedge.net^
+||officeclient.microsoft.com^
+||ecs.nel.measure.office.net^
+||blobs.officehome.msocdn.com^
+||telecommandstorageprod.blob.core.windows.net^
+! ***********************************
+! -------------------
+! Category : OneDrive
+! Protocal : TLSv1.2/HTTPS/HTTP	
+! Destination : The following endpoints are related to OneDrive. 
+! If you turn off traffic for these endpoints, anything that relies on g.live.com to get updated URL information will no longer work.
+! <----- Filter ------>
+||g.live.com^
+||onedrive.live.com^
+||oneclient.sfx.ms^
+||logincdn.msauth.net^
+! ***********************************
+! -------------------
+! Category : Settings
+! Protocal : TLSv1.2/HTTPS/HTTP
+! Destination : The following endpoints are used as a way for apps to dynamically update their configuration. 
+! Apps such as System Initiated User Feedback and the Xbox app use it. If you turn off traffic for this endpoint, an app that uses this endpoint may stop working.
+! <----- Filter ------>
+||settings-win.data.microsoft.com^
+! ***********************************
+! -------------------
+! Category : Skype
+! Protocal : HTTPS/HTTP
+! Destination : The following endpoints are used as a way for apps to dynamically update their configuration. 
+! Apps such as System Initiated User Feedback and the Xbox app use it. If you turn off traffic for this endpoint, an app that uses this endpoint may stop working.
+! <----- Filter ------>
+||*.pipe.aria.microsoft.com^
+! ***********************************
+! -------------------
+! Category : Teams
+! Protocal : TLSv1.2/HTTPS/HTTP
+! Destination : The following endpoints are used as a way for apps to dynamically update their configuration. 
+! Apps such as System Initiated User Feedback and the Xbox app use it. If you turn off traffic for this endpoint, an app that uses this endpoint may stop working.
+! <----- Filter ------>
+||config.teams.microsoft.com^
+||teams.live.com^
+||teams.events.data.microsoft.com^
+! ***********************************
+! Category : Windows Spotlight
+! Protocal : TLSv1.2/HTTPS/HTTP
+! Destination : The following endpoints are used to retrieve Windows Spotlight metadata that describes content, such as references to image locations, as well as suggested apps, 
+!  Microsoft account notifications, and Windows tips. If you turn off traffic for these endpoints, Windows Spotlight will still try to deliver new lock screen images and updated content but it will fail;
+! suggested apps, Microsoft account notifications, and Windows tips won't be downloaded.
+! <----- Filter ------>
+||ris.api.iris.microsoft.com^
+||api.msn.com^
+||assets.msn.com^
+||c.msn.com^
+||ntp.msn.com^
+||srtb.msn.com^
+||www.msn.com^
+||fd.api.iris.microsoft.com^
+! ***********************************
+! Category : Windows Update
+! Protocal : TLSv1.2/HTTPS/HTTP
+! Destination : The following endpoints are used for Windows Update downloads of apps and OS updates, including HTTP downloads or HTTP
+! <----- Filter ------>
+||*.prod.do.dsp.mp.microsoft.com^
+||emdl.ws.microsoft.com^
+||*.dl.delivery.mp.microsoft.com^
+||*.windowsupdate.com^
+||*.delivery.mp.microsoft.com^
+||*.update.microsoft.com^
+||adl.windows.com^
+||tsfe.trafficshaping.dsp.mp.microsoft.com^
+! ***********************************
+! Category : Xbox Live
+! Protocal : TLSv1.2/HTTPS/HTTP
+! Destination : The following endpoints are used for Windows Update downloads of apps and OS updates, including HTTP downloads or HTTP
+! <----- Filter ------>
+||dlassets-ssl.xboxlive.com^
+! ***********************************

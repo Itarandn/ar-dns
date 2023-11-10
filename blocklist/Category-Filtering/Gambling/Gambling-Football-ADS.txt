@@ -1,0 +1,78 @@
+! [Adguard ] DNS Filtering
+! Filter Type : Domain
+! Catagory : Gambling 
+! Catagory : Football Advertiser 
+! Description: Football Advertiser 
+! Update : 29-SEP-2023
+! Source : https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_list_URLs.txt
+!
+!
+! <---- Start Filter ----->
+!----- filters/general/thirdparty_block.txt -----
+!
+!
+||188betthailand.net$media,redirect=noop-1s.mp4,third-party
+||7mscorethai.com^$media,redirect=noop-1s.mp4,third-party
+||amvata.com/widget/$third-party
+||avenger98th.com/*banner.mp4$media,redirect=noop-1s.mp4,third-party
+||b-cdn.net/**/ads/**.mp4$media,redirect=noop-1s.mp4,third-party
+||bannung.com^$media,redirect=noop-1s.mp4,third-party
+||baover-vdo.com^$media,redirect=noop-1s.mp4,third-party
+||baover.ml^$media,redirect=noop-1s.mp4,third-party
+||cdn.digitaloceanspaces.com/dreamgame88.mp4$media,redirect=noop-1s.mp4,third-party
+||cdn.oct2bet.com$media,redirect=noop-1s.mp4,third-party
+||cdn.osamime.ml^$media,redirect=noop-1s.mp4,third-party
+||cdn.playhub777.com$media,redirect=noop-1s.mp4,third-party
+||cdn.playhub888.com$media,redirect=noop-1s.mp4,third-party
+||cdn.sexygame66.com^$media,redirect=noop-1s.mp4,third-party
+||cornerhd.com^$media,redirect=noop-1s.mp4,third-party
+||foxwood168.com^$media,redirect=noop-1s.mp4,third-party
+||ft99.b-cdn.net^$third-party
+||funlives.tv/vdo/*$media,redirect=noop-1s.mp4,third-party
+||gclub4you.*.cdn.digitaloceanspaces.com^$third-party
+||get4u.net^$image,third-party
+||get4u.net^$media,redirect=noop-1s.mp4,third-party
+||goalclub.live^$media,redirect=noop-1s.mp4,third-party
+||goalclub.tv^$media,redirect=noop-1s.mp4,third-party
+||googles.video/**/ssgame66.mp4$3p,media,redirect=noop-1s.mp4
+||lsm45.com^$media,redirect=noop-1s.mp4,third-party
+||magiclampz.com^$media,redirect=noop-1s.mp4,third-party
+||movie365-hd.com/ads/*$media,redirect=noop-1s.mp4
+||pinkqx.co/scg9*$media,redirect=noop-1s.mp4,third-party
+||playerlnw.com/video/biobet*.mp4$media,redirect=noop-1s.mp4
+||prettygame77.com/mvaba/*$media,redirect=noop-1s.mp4,third-party
+||sa168vip.com$media,redirect=noop-1s.mp4,third-party
+||sagame36.com^$media,redirect=noop-1s.mp4,third-party
+||sagame66.co^$media,redirect=noop-1s.mp4,third-party
+||sagame66.com^$media,redirect=noop-1s.mp4,third-party
+||sagame88cdn.com^$media,redirect=noop-1s.mp4,third-party
+||scg511.com^$media,redirect=noop-1s.mp4,third-party
+||seriespop.com/adsvideo/$media,redirect=noop-1s.mp4
+||socceris.com$media,redirect=noop-1s.mp4,third-party
+||sportpools.in.th^$media,redirect=noop-1s.mp4,third-party
+||storage.googleapis.com/movie2uhd/*$media,redirect=noop-1s.mp4
+||stream.cpssnn.site/ads.mp4$media,redirect=noop-1s.mp4
+||ufa191.com^$media,redirect=noop-1s.mp4,third-party
+||ufa191.video^$media,redirect=noop-1s.mp4,third-party
+||ufabet365.com^$media,redirect=noop-1s.mp4,third-party
+||ufabet678.com^$media,redirect=noop-1s.mp4,third-party
+||vdoad3.online/vdo/*$media,redirect=noop-1s.mp4,third-party
+||video.laterxxx.com^$third-party
+||win2url.com/js/*$script,third-party
+!
+!
+!----- filters/category/sport_hide.txt -----
+||fifa55hot.net###bghead
+||soccersuck.com###ssCoverBG
+||baanpolballs.com##.ads_forum
+||baanpolballs.com##.banner-wp
+||warpfootball.com##.bannerimg
+||beinsport.biz##.onPlayer_banner
+||baanpolballs.com,fifa55hot.net##a[rel*=nofollow] > img
+||soccersuck.com##a[rel=nofollow][target=_blank] > img
+||fifa55hot.net##a[target=_blank] > img
+||goal.in.th,gol.in.th,gool.in.th##table > tbody > tr > td:has( > a[target=_blank]:first-child > img[src*=gif])
+!
+! --------------------------------------------
+! <---- End Filter ----->
+! --------------------------------------------

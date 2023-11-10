@@ -1,0 +1,37 @@
+! -------------------
+! Category : Office
+! Protocal : HTTPS
+! Diagnostic Data Article 06/24/2023
+! Protocal : TLSv1.2/HTTP
+! 	The following endpoints are used by the Connected User Experiences and Telemetry component and connects to the Microsoft Data Management service. If you turn off traffic for this endpoint, diagnostic and usage information, 
+! which helps Microsoft find and fix problems and improve our products and services, won't be sent back to Microsof
+! https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+! -------------------
+! <----- Filter ------>
+||www.office.com^
+||blobs.officehome.msocdn.com^
+||officehomeblobs.blob.core.windows.net^
+||self.events.data.microsoft.com^
+||outlookmobile-office365-tas.msedge.net^
+||officeclient.microsoft.com^
+||ecs.nel.measure.office.net^
+||blobs.officehome.msocdn.com^
+||telecommandstorageprod.blob.core.windows.net^
+||upload2.fp.measure.office.com^
+||ecs.office.com^
+||outlook.office.com^
+||atm-fp-direct.office.com^
+||r4.res.office365.com^
+||nexusrules.officeapps.live.com^
+||tellmeservice.osi.office.net^
+||uci.cdn.office.net^
+||tellmeservice.osi.office.net^
+||nexusrules.officeapps.live.com^
+||cdn.odc.officeapps.live.com^
+||f57e92ced57d4cb2a589cb3484760612.fp.measure.office.com^
+||r4.res.office365.com^
+||metadata.templates.cdn.office.net^
+||nleditor.osi.office.net^
+||osi.office.net^
+! ***********************************
+! -------------------

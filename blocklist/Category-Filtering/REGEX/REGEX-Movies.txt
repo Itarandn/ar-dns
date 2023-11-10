@@ -1,0 +1,25 @@
+
+
+
+! [Adguard ] DNS Filtering
+! Filter Type : Regular Expressions
+! Catagory : Movies
+! Catagory : Movies
+! Description: Streaming Movies
+! Update : 29-SEP-2023
+! Source : 
+!
+!
+! <---- Start Filter ----->
+!
+!
+/((^)|(.))movie./
+/((^)|(.))movies./
+/((^)|(.))hdmovie./
+/((^)|(.))hdmovies./
+/((^)|(.))hd-movies./
+/((^)|(.))hd-./
+/((^)|(.))-hd./
+!
+!
+! <---- End Filter ----->

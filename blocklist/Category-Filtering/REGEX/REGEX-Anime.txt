@@ -1,0 +1,10 @@
+! [Adguard ] DNS Filtering
+! Filter Type : Regular Expressions
+! Catagory : a 
+! Catagory : Anime
+! Description: Anime Online
+! Update : 29-SEP-2023
+! <---- Start Filter ----->
+/((^)|(.))anime./
+/((^)|(.))animehd./
+! <---- End Filter ----->

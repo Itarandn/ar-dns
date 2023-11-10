@@ -1,0 +1,14 @@
+! [Adguard ] DNS Filtering
+! Filter Type : Regular Expressions
+! Catagory : Streaming 
+! Catagory : Movies 
+! Description: Streaming Movies Online
+! Update : 29-SEP-2023
+! <---- Start Filter ----->
+/((^)|(.))serie./
+/((^)|(.))series./
+/((^)|(.))kseries./
+/((^)|(.))tseries./
+/((^)|(.))overserieshd./
+/((^)|(.))series4you./
+! <---- End Filter ----->

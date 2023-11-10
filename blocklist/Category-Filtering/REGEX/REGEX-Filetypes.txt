@@ -1,0 +1,12 @@
+! [Adguard ] DNS Filters
+! Filter Type : Regular Expressions
+! Catagory : File
+! Catagory : File
+! Description: Blocks file types
+! Update : 29-SEP-2023
+! <---- Start Filter ----->
+!
+/(.*).(aif|cda|mid|midi|mpa|wma|wpl|arj|z|dmg|toast|vcd|gadget)/
+/(.*).(wsf|fon|cfm|swift|vb|3g2|3gp|avi|flv|mov|rm|swf|vob|wmv|mp4)/
+!
+! <---- End Filter ----->

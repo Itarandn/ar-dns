@@ -1,0 +1,5 @@
+||api-jooxtt.sanook.com^
+||joox.com^
+||id.stream.music.joox.com^
+||soundcloud.com^
+||d16npyvi7pcxgr.cloudfront.net^
