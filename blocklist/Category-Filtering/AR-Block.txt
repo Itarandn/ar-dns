@@ -1,0 +1,2 @@
+! 26-SEP-2023
+! https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
