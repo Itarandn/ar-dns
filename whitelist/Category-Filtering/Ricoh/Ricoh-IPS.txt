@@ -1,3 +1,5 @@
 ! Ricoh
 @@||gwpro1.support.ricoh.com^
 @@||gwpro2.support.ricoh.com^
+@@||210.173.216.59^
+@@||210.173.216.60^
