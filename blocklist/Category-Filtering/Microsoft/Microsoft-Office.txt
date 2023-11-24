@@ -1,1 +1,5 @@
-
+! Microsoft-Office 365
+||ow1.res.office365.com^
+||r4.res.office365.com^
+||outlook.office365.com^
+||ow1.res.office365.com^
