@@ -1,0 +1,10 @@
+! TrueNAS Core & TrueNAS SCALE
+! 01-DEC-2023
+! #
+!
+! DSM Update Download Site	
+!
+@@||update-master.ixsystems.com^
+@@||update.ixsystems.com^
+@@||download.freebsd.org^
+@@||update2.freebsd.org^
