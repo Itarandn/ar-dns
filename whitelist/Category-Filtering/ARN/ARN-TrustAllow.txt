@@ -30,6 +30,8 @@
 !
 ! Product : Thisshop
 @@||oa.thisshop.com^
+@@||dcs.thisshop.com^
+@@||thisshop.com^
 !
 ! TTB OA Management
 @@||oamweb.ttbbank.com^
