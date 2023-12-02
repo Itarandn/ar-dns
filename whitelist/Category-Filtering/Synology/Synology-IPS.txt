@@ -253,3 +253,10 @@
 !
 @@||current.cvd.clamav.net^
 !--------------------------------
+!
+! Add-on package : Disk Update
+!
+@@||diskupdate.synology.com^
+!--------------------------------
+
+
