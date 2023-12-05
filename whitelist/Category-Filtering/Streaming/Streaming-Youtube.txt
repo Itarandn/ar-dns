@@ -1,0 +1,8 @@
+# Youtube
+@@||s.youtube.com^$important
+@@||s2.youtube.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
+@@||i.ytimg.com^$important
+@@||i1.ytimg.com^$important
+@@||s.ytimg.com^$important
