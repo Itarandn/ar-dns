@@ -16,3 +16,4 @@
 @@||video-stats.l.google.com^$important
 @@||geo3.ggpht.com^$important
 @@||yt3.ggpht.com^$important
+@@||id.google.com^$important
