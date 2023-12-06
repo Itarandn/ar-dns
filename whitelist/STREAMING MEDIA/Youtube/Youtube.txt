@@ -172,3 +172,4 @@
 @@||ytimg.l.google.com^
 @@||ytkids.app.goo.gl^
 @@||yt-video-upload.l.google.com^
+@@||www.youtube.com^
