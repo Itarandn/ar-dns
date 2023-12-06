@@ -173,3 +173,9 @@
 @@||ytkids.app.goo.gl^
 @@||yt-video-upload.l.google.com^
 @@||www.youtube.com^
+@@||casespartner-pa.youtube.com^
+@@||signaler-pa.youtube.com^
+@@||www.youtube.com^
+@@||casespartner-pa.youtube.com^
+@@||accounts.youtube.com^
+
