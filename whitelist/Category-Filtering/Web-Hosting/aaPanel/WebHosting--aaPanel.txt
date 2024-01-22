@@ -1,0 +1,26 @@
+! aaPanel
+! 22-January-2024
+! 
+! Python Package
+@@||pypi.org^
+!
+! aaPanel Package
+!
+@@||cf1-node.aapanel.com^
+@@||brandnew.aapanel.com^
+@@||jp1-node.bt.cn^
+@@||na1-node.bt.cn^
+@@||na1-node.bt.cn^
+@@||hk1-node.bt.cn^
+@@||ctcc1-node.bt.cn^
+@@||ctcc2-node.bt.cn^
+@@||cmcc1-node.bt.cn^
+@@||cmcc2-node.bt.cn^
+@@||download.bt.cn^
+@@||dg1.bt.cn^
+@@||dg2.bt.cn^
+@@||node.aapanel.com^
+@@||xxx^
+@@||xxx^
+@@||xxx^
+!--------------------------------
