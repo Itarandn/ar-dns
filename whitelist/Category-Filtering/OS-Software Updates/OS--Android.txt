@@ -1,0 +1,13 @@
+! Resource : https://www.netify.ai/resources/applications/android
+! Catagorie : OS/Software Updates
+! Updates --  Android
+! tag : android
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|android.apis.google.com^$important
+@@|android.clients.google.com^$important
+@@|android.com^$important
+@@|android-context-data.googleapis.com^$important
+@@|android.googleapis.com^$important
+@@|android.l.google.com^$important
+! ---------------------------------------------------------------------------------------
