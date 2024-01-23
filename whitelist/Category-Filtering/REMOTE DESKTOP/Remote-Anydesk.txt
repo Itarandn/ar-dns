@@ -1,0 +1,9 @@
+! Resource : https://www.netify.ai/resources/applications/anydesk
+! Catagorie : REMOTE DESKTOP
+! Updates --  Anydesk
+! tag : anydesk
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|anydesk.com^$important
+@@|net.anydesk.com^$important
+! ---------------------------------------------------------------------------------------
