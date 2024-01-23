@@ -1,0 +1,11 @@
+! Resource : https://www.netify.ai/resources/applications/google-play
+! Catagorie : OS/Software Updates
+! Updates --  Google-Play
+! tag : google-play
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|play-fe.googleapis.com^$important
+@@|play.googleapis.com^$important
+@@|play.google.com^$important
+@@|play-lh.googleusercontent.com^$important
+! ---------------------------------------------------------------------------------------
