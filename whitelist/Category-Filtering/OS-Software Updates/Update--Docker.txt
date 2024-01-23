@@ -1,0 +1,9 @@
+! Resource : https://www.netify.ai/resources/applications/docker
+! Catagorie : OS/Software Updates
+! Updates --  Docker
+! tag : docker
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|docker.io^$important
+@@|docker.com^$important
+! ---------------------------------------------------------------------------------------
