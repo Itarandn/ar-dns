@@ -1,0 +1,10 @@
+! Resource : https://www.netify.ai/resources/applications/debian
+! Catagorie : OS/Software Updates
+! Updates --  Debian
+! tag : debian
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|debian.map.fastlydns.net^$important
+@@|debian.net^$important
+@@|debian.org^$important
+! ---------------------------------------------------------------------------------------
