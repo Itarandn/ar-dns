@@ -1,0 +1,10 @@
+! Resource : https://www.netify.ai/resources/applications/docker
+! Catagorie : Hypervisor
+! Updates --  Proxmox
+! tag : proxmox
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|download.proxmox.com^$important
+@@|enterprise.proxmox.com^$important
+@@|proxmox.com^$important
+! ---------------------------------------------------------------------------------------

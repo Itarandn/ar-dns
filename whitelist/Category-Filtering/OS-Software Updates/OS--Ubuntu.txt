@@ -1,0 +1,16 @@
+! Resource : https://www.netify.ai/resources/applications/uebian
+! Catagorie : OS/Software Updates
+! Updates --  Ubuntu
+! tag : ubuntu
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|canonical.com^$important
+@@|launchpadcontent.net^$important
+@@|launchpad.net^$important
+@@|snapcraftcontent.com^$important
+@@|snapcraft.io^$important
+@@|ubuntu.com^$important
+@@|ubuntuforums.org^$important
+@@|ubuntu-it.org^$important
+@@|xubuntu.org^$important
+! ---------------------------------------------------------------------------------------
