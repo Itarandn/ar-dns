@@ -1,0 +1,9 @@
+! Resource : https://www.netify.ai/resources/applications/mediafire
+! Catagorie : File Sharing
+! File Sharing --  Mediafire APPLICATION
+! tag : file-sharing
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+||mediafire.com^
+||mediafire.dev^
+! ---------------------------------------------------------------------------------------

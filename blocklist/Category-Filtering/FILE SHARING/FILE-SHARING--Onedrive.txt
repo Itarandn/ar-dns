@@ -1,0 +1,27 @@
+! Resource : https://www.netify.ai/resources/applications/onedrive
+! Catagorie : File Sharing
+! File Sharing --  ONEDRIVE APPLICATION
+! tag : file-sharing
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+||1drv.com^
+||1drv.ms^
+||docs.live.net^
+||l-0003.l-dc-msedge.net^
+||l-0003.l-msedge.net^
+||l-0004.l-dc-msedge.net^
+||l-0004.l-msedge.net^
+||livefilestore.com^
+||odwebb.svc.ms^
+||odwebdf.svc.ms^
+||odwebpl.svc.ms^
+||odwebp.svc.ms^
+||onedrive.com^
+||onedrive.live.com^
+||settings.live.net^
+||skyapi.live.net^
+||skyapi.policies.live.net^
+||skydrivesync.policies.live.net^
+||storage.live.com^
+||windows.policies.live.net^
+! ---------------------------------------------------------------------------------------
