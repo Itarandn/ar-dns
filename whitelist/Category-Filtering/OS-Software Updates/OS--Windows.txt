@@ -1,0 +1,17 @@
+! Resource : https://www.netify.ai/resources/applications/uebian
+! Catagorie : OS/Software Updates
+! Updates --  Windows Update
+! tag : ubuntu
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|forefrontdl.microsoft.com^$important
+@@|ntservicepack.microsoft.com^$important
+@@|statsfe2.ws.microsoft.com^$important
+@@|update.microsoft^$important
+@@|update.microsoft.com^$important
+@@|update.microsoft.com.nsatc.net^$important
+@@|windowsupdate.com^$important
+@@|windowsupdate.microsoft.com^$important
+@@|windowsupdate.nsatc.net^$important
+@@|wustat.windows.com^$important
+! ---------------------------------------------------------------------------------------

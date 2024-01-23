@@ -1,0 +1,26 @@
+! Resource : https://www.netify.ai/resources/applications/google
+! Catagorie : Google Serice
+! Updates --  Google-Maps
+! tag : google-maps
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+@@|earth.app.goo.gl^$important
+@@|geo0.ggpht.com^$important
+@@|geo1.ggpht.com^$important
+@@|geo2.ggpht.com^$important
+@@|geo3.ggpht.com^$important
+@@|keyhole.l.google.com^$important
+@@|kh.google.com^$important
+@@|maps.app.goo.gl^$important
+@@|maps.google.ca^$important
+@@|maps.google.ch^$important
+@@|maps.google.co.jp^$important
+@@|maps.google.com^$important
+@@|maps.google.com.mx^$important
+@@|maps.google.co.uk^$important
+@@|maps.google.es^$important
+@@|maps.google.se^$important
+@@|maps.gstatic.com^$important
+@@|mobilemaps.googleapis.com^$important
+@@|mobilemaps-pa-gz.googleapis.com^$important
+! ---------------------------------------------------------------------------------------
