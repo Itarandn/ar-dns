@@ -1,0 +1,8 @@
+! Driver
+! Categories : Driver Intel
+! https://www.thailand.intel.com/content/www/th/th/support/articles/000023000/software/software-applications.html
+@@||dsadata.intel.com^$important
+@@||downloadmirror.intel.com^$important
+@@||xxxx^$important
+@@||xxxx^$important
+@@||xxxx^$important
