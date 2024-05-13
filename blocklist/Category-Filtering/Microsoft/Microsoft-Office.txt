@@ -9,4 +9,4 @@
 ||outlook.office365.com^
 ||ow1.res.office365.com^
 ||outlook.office365.com^
-||office.live.com^
+||office.live.com^^
