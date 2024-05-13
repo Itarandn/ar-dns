@@ -1,5 +1,12 @@
+!
+! 29-SEP-2023
+!----- filters/category/movies_block.txt -----
+! Source : https://adblock-thai.github.io/thai-ads-filter/subscription.txt
+! */LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4,domain=dooserieshd.com|kseries.tv|ksubtv.co|ohztv.com
 ! Microsoft-Office 365
 ||ow1.res.office365.com^
 ||r4.res.office365.com^
 ||outlook.office365.com^
 ||ow1.res.office365.com^
+||outlook.office365.com^
+||office.live.com^
