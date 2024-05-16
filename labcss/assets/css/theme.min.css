@@ -71,7 +71,7 @@
   --falcon-black-rgb: 0, 0, 0;
   --falcon-body-color-rgb: 94, 110, 130;
   --falcon-body-bg-rgb: 237, 242, 249;
-  --falcon-font-sans-serif: "Poppins", -apple-system, BlinkMacSystemFont,
+  --falcon-body-font-family: "Poppins", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol";
   --falcon-font-monospace: "SFMono-Regular", Menlo, Monaco, Consolas,
@@ -185,7 +185,7 @@
 }
 :root,
 [data-bs-theme="light"] {
-  --falcon-primary: #2c7be5;
+  --falcon-primary: #2c7be5;v
   --falcon-colored-link-hover-color-primary: #2362b7;
   --falcon-secondary: #748194;
   --falcon-colored-link-hover-color-secondary: #5d6776;
