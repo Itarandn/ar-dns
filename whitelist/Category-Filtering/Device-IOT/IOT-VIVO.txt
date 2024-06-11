@@ -92,3 +92,8 @@
 @@||pnrt.stsdk.vivoglobal.com^$important
 @@||prt.stsdk.vivoglobal.com^$important
 @@||err.up.vivoglobal.com^$important
+@@||asia-vcode-od.vivoglobal.com^$important
+@@||asia-st-sl.vivoglobal.com^$important
+@@||asia-news-abroad.vivo.com^$important
+@@||asia-wifi.vivoglobal.com^$important
+@@||mobile-apps.booking.com^$important
