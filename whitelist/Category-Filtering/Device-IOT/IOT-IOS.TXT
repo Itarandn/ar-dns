@@ -3,16 +3,6 @@
 ! Application : VIVO
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains//native.apple.txt
 ! Modify : 22-JUN-2024
-@@||gspe1-ssl.ls.apple.com^$important
-@@||www.apple.com^$important
-@@||mesu.apple.com^$important
-@@||apple.com^$important
-@@||api.smoot.apple.com^$important
-@@||gspe35-ssl.ls.apple.com^$important
-@@||mesu.apple.com^$important
-@@||45-courier.push.apple.com^$important
-@@||41-courier.push.apple.com^$important
-@@||23-courier.push.apple.com^$important
 @@||ab.apple.com.akadns.net^$important
 @@||acfeedbackws.icloud.com^$important
 @@||advertising.apple.com^$important
@@ -186,6 +176,8 @@
 @@||marketing.services.apple^$important
 @@||marketing.services.appleappleglobal.102.112.207.net^$important
 @@||me.apple-dns.net^$important
+@@||mesu.g.aaplimg.com^$important
+@@||mesu-cdn.origin-apple.com.akadns.net^$important
 @@||metrics.apple.com^$important
 @@||metrics.icloud.com^$important
 @@||metrics.mzstatic.com^$important
@@ -374,5 +366,4 @@
 @@||xp.apple.com.edgekey.net^$important
 @@||xp.itunes-apple.com.akadns.net^$important
 @@||xp-cdn.apple.com^$important
-
 
