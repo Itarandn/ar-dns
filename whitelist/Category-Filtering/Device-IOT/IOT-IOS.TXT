@@ -32,6 +32,7 @@
 @@||diagnostics.apple.com^$important
 @@||diagnostics.apple.com.akadns.net^$important
 @@||display-apps-ui.iad.apple.com^$important
+@@||e673.dsce9.akamaiedge.net^$important
 @@||experiments.apple.com^$important
 @@||experiments.apple.com.edgekey.net^$important
 @@||feedbackws.fe.apple-dns.cn^$important
@@ -171,6 +172,7 @@
 @@||iphonesubmissions.apple.com.akadns.net^$important
 @@||iphonesubmissions.v.aaplimg.com^$important
 @@||iphonesubmissions-old.apple.com^$important
+@@||is1-ssl.mzstatic.com^$important
 @@||launch.apple.com^$important
 @@||linkmaker.itunes.apple.com.edgekey.net^$important
 @@||marketing.services.apple^$important
@@ -294,6 +296,7 @@
 @@||r4-iad-ss-user-targeting.iad.apple.com^$important
 @@||radarsubmissions.apple.com^$important
 @@||radarsubmissions.apple.com.akadns.net^$important
+@@||s.mzstatic.com^$important
 @@||s1-ap-sales-middleware.iad.apple.com^$important
 @@||s1-ext-searchads.iad.apple.com^$important
 @@||s1-iad-ap-apps-ad-tester.iad.apple.com^$important
@@ -366,4 +369,3 @@
 @@||xp.apple.com.edgekey.net^$important
 @@||xp.itunes-apple.com.akadns.net^$important
 @@||xp-cdn.apple.com^$important
-
