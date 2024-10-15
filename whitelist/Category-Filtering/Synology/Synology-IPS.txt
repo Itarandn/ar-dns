@@ -258,5 +258,10 @@
 !
 @@||diskupdate.synology.com^
 !--------------------------------
-
+!
+! Package : Community
+!
+@@||packages.synocommunity.com^
+@@||spk7.imnks.com^
+!--------------------------------
 
