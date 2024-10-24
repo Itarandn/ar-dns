@@ -20,4 +20,5 @@
 @@||dg1.bt.cn^
 @@||dg2.bt.cn^
 @@||node.aapanel.com^
+@@||www.aapanel.com^
 !--------------------------------
