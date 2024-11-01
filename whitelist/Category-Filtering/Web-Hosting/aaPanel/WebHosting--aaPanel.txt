@@ -21,4 +21,9 @@
 @@||dg2.bt.cn^
 @@||node.aapanel.com^
 @@||www.aapanel.com^
+@@||debian.map.fastlydns.net^
+@@||www.bt.cn^
+@@||bt.cn^
+@@||acme-v02.api.letsencrypt.org^
+@@||getcomposer.org^
 !--------------------------------
