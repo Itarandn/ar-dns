@@ -26,4 +26,6 @@
 @@||bt.cn^
 @@||acme-v02.api.letsencrypt.org^
 @@||getcomposer.org^
+@@||wafapi2.aapanel.com^
+@@||files.pythonhosted.org^
 !--------------------------------
