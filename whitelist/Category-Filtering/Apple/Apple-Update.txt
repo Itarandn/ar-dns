@@ -24,3 +24,4 @@
 @@||gsra.apple.com^$important
 @@||wkms-public.apple.com^$important
 @@||fcs-keys-pub-prod.cdn-apple.com^$important
+@@||e17437.dsct.akamaiedge.net^$important
