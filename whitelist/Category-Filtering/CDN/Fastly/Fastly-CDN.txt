@@ -1,0 +1,24 @@
+# Fastly
+# CR : https://www.netify.ai/resources/domains/fastly.net
+# 27/1/2025
+# Fastly's edge cloud platform delivers faster, safer, and more scalable sites and apps to customers. It is a CDN for video delivery, security, and more.
+@@||apis.apple.map.fastly.net^$important
+@@||apple.map.fastly.net^$important
+@@||bg.microsoft.map.fastly.net^$important
+@@||bytedance.map.fastly.net^$important
+@@||dualstack.h2.bytedance.map.fastly.net^$important
+@@||dualstack.reddit.map.fastly.net^$important
+@@||dualstack.tls13.taboola.map.fastly.net^$important
+@@||fg.microsoft.map.fastly.net^$important
+@@||global.moloco.map.fastly.net^$important
+@@||h3.apis.apple.map.fastly.net^$important
+@@||h3.media.apple.map.fastly.net^$important
+@@||jsdelivr.map.fastly.net^$important
+@@||media.amazon.map.fastly.net^$important
+@@||media.apple.map.fastly.net^$important
+@@||moloco.map.fastly.net^$important
+@@||reddit.map.fastly.net^$important
+@@||taboola.map.fastly.net^$important
+@@||tls13.taboola.map.fastly.net^$important
+@@||us.bytedance.map.fastly.net^$important
+@@||video.us.bytedance.map.fastly.net^$important
