@@ -11,3 +11,4 @@
 @@||ocsp.digicert.com^$important
 @@||ocsp2.apple.com^$important
 @@||valid.apple.com^$important
+@@||gspe79-ssl.ls.apple.com^$important
