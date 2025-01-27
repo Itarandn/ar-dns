@@ -1,0 +1,6 @@
+# CDN
+# CR : 
+# 27/1/2025
+# CDN
+@@||gsp85-ssl.ls2-apple.com.akadns.net^$important
+@@||gsp85-ssl.ls.apple.com^$important
