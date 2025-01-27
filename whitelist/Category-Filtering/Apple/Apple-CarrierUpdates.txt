@@ -1,0 +1,10 @@
+# Apple : Carrier Updates
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Cellular devices need access to the following hosts to install carrier bundle updates.
+@@||appldnld.apple.com^$important
+@@||appldnld.apple.com.edgesuite.net^$important
+@@||itunes.com^$important
+@@||itunes.apple.com^$important
+@@||updates-http.cdn-apple.com^$important
+@@||updates.cdn-apple.com^$important

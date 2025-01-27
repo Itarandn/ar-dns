@@ -1,0 +1,15 @@
+# Apple : Device Management
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Apple devices enrolled in MDM need access to the following hosts and domains.
+@@||*.push.apple.com^$important
+@@||deviceenrollment.apple.com^$important
+@@||deviceservices-external.apple.com^$important
+@@||gdmf.apple.com^$important
+@@||identity.apple.com^$important
+@@||iprofiles.apple.com^$important
+@@||mdmenrollment.apple.com^$important
+@@||setup.icloud.com^$important
+@@||vpp.itunes.apple.com^$important
+@@||*.appattest.apple.com^$important
+@@||axm-servicediscovery.apple.com^$important

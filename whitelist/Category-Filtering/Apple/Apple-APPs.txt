@@ -1,0 +1,20 @@
+# Apple : Apps and additional content
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Apple devices need access to the following hosts and domains for installing and updating apps, using certain app features, and downloading additional content. Some additional content might also be hosted on third-party content distribution networks.
+@@||*.itunes.apple.com^$important
+@@||*.apps.apple.com^$important
+@@||*.mzstatic.com^$important
+@@||itunes.apple.com^$important
+@@||ppq.apple.com^$important
+@@||api.apple-cloudkit.com^$important
+@@||*.appattest.apple.com^$important
+@@||*.apps-marketplace.apple.com^$important
+@@||token.safebrowsing.apple^$important
+@@||audiocontentdownload.apple.com^$important
+@@||devimages-cdn.apple.com^$important
+@@||download.developer.apple.com^$important
+@@||playgrounds-assets-cdn.apple.com^$important
+@@||playgrounds-cdn.apple.com^$important
+@@||sylvan.apple.com^$important
+@@||gateway.icloud.com^$important

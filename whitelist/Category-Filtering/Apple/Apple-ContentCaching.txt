@@ -1,0 +1,9 @@
+# Apple : Content caching
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# A Mac that provides content caching needs access to the following hosts, as well as the hosts listed in this document that provide Apple content such as software updates, apps, and additional content.
+@@||lcdn-registration.apple.com^$important
+@@||suconfig.apple.com^$important
+@@||xp-cdn.apple.com^$important
+@@||lcdn-locator.apple.com^$important
+@@||serverstatus.apple.com^$important

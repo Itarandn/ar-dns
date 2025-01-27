@@ -1,0 +1,26 @@
+# Apple : Software updates
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Apple devices need access to the following hosts when installing, restoring, and updating iOS, iPadOS, macOS, watchOS, tvOS, and visionOS.
+@@||appldnld.apple.com^$important
+@@||configuration.apple.com^$important
+@@||gdmf.apple.com^$important
+@@||gg.apple.com^$important
+@@||gs.apple.com^$important
+@@||ig.apple.com^$important
+@@||mesu.apple.com^$important
+@@||ns.itunes.apple.com^$important
+@@||oscdn.apple.com^$important
+@@||osrecovery.apple.com^$important
+@@||skl.apple.com^$important
+@@||swcdn.apple.com^$important
+@@||swdist.apple.com^$important
+@@||swdownload.apple.com^$important
+@@||swscan.apple.com^$important
+@@||updates-http.cdn-apple.com^$important
+@@||updates.cdn-apple.com^$important
+@@||xp.apple.com^$important
+@@||gdmf-ados.apple.com^$important
+@@||gsra.apple.com^$important
+@@||wkms-public.apple.com^$important
+@@||fcs-keys-pub-prod.cdn-apple.com^$important

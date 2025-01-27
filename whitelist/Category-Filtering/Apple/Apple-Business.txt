@@ -1,0 +1,16 @@
+# Apple : Business Manager
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Administrators and managers need access to the following hosts and domains in order to administer and manage Apple Business Manager and Apple School Manager.
+@@||*.business.apple.com^$important
+@@||*.school.apple.com^$important
+@@||appleid.cdn-apple.com^$important
+@@||idmsa.apple.com^$important
+@@||*.itunes.apple.com^$important
+@@||*.mzstatic.com^$important
+@@||api.ent.apple.com^$important
+@@||api.edu.apple.com^$important
+@@||statici.icloud.com^$important
+@@||*.vertexsmb.com^$important
+@@||www.apple.com^$important
+@@||upload.appleschoolcontent.com^$important
