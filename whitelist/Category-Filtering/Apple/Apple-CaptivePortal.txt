@@ -1,0 +1,7 @@
+# Captive Portal
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Captive Portal
+@@||captive.g.aaplimg.com^$important
+@@||captive.apple.com/hotspot-detect.html^$important
+@@||captive.apple.com^$important
