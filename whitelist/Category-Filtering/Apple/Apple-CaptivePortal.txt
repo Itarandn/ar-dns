@@ -5,3 +5,4 @@
 @@||captive.g.aaplimg.com^$important
 @@||captive.apple.com/hotspot-detect.html^$important
 @@||captive.apple.com^$important
+@@||gsp85-ssl.ls.apple.com^$important
