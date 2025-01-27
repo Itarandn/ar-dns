@@ -8,3 +8,4 @@
 @@||lcdn-locator-usms11.apple.com.akadns.net^$important
 @@||fpinit-apac-s.edge-itunes-apple.com.akadns.net^$important
 @@||configuration.ls.apple.com^$important
+@@||mesu-cdn.origin-apple.com.akadns.net^$important
