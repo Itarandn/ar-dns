@@ -27,3 +27,10 @@
 @@||updates.cdn-apple.com^$important
 @@||updates.g.aaplimg.com^$important
 @@||weatherkit.apple.com^$important
+@@||gdmf.apple.com^$important
+@@||mesu.apple.com^$important
+@@||xp.apple.com^$important
+@@||configuration.apple.com^$important
+@@||gdmf.v.aaplimg.com^$important
+@@||updates.cdn-apple.com^$important
+@@||swscan.apple.com^$important
