@@ -1,0 +1,5 @@
+# Apple : Software updates
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Encrypted Domain Name System (DNS) resolution in iOS 14, iPadOS 14, tvOS 14, and macOS Big Sur and later uses the following host.
+@@||doh.dns.apple.com^$important

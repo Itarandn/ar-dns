@@ -1,0 +1,6 @@
+# Associated Domains
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Apple devices must be able to connect to the following hosts to use Associated Domains in iOS 14, iPadOS 14, and macOS Big Sur and later. Associated Domains underpin universal links, a feature that allows an app to present content in place of all or part of its website. Handoff, App Clips, and single sign-on extensions all use Associated Domains.
+@@||app-site-association.cdn-apple.com^$important
+@@||app-site-association.networking.apple^$important

@@ -1,0 +1,8 @@
+# ID Verifier on iPhone
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# To use an ID Verifier-enabled app to accept mobile IDs, an iPhone must be able to reach the following hosts.Associated Domains.
+@@||smp-device-content.apple.com^$important
+@@||idv.cdn-apple.com^$important
+@@||idv-prod1.apple.com^$important
+@@||humb.apple.com^$important

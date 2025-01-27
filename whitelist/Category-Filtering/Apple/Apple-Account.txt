@@ -1,0 +1,8 @@
+# Apple Account
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Apple devices must be able to connect to the following hosts in order to authenticate an Apple Account. This is required for all services that use an Apple Account, such as iCloud, app installation, and Xcode.
+@@||account.apple.com^$important
+@@||appleid.cdn-apple.com^$important
+@@||idmsa.apple.com^$important
+@@||gsa.apple.com^$important

@@ -1,0 +1,7 @@
+# Tap to Pay on iPhone
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# To use a payment app to accept contactless payments, an iPhone must be able to reach the following hosts.present content in place of all or part of its website. Handoff, App Clips, and single sign-on extensions all use Associated Domains.
+@@||pos-device.apple.com^$important
+@@||humb.apple.com^$important
+@@||phonesubmissions.apple.com^$important

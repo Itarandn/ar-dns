@@ -1,0 +1,17 @@
+# Apple Intelligence, Siri, and Search
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Apple devices must be able to connect to the following hosts to process Apple Intelligence requests that use Private Cloud Compute and to process Siri requests, including dictation and searching in Apple apps.
+@@||guzzoni.apple.com^$important
+@@||*.smoot.apple.com^$important
+@@||apple-relay.cloudflare.com^$important
+@@||apple-relay.fastly-edge.com^$important
+@@||cp4.cloudflare.com^$important
+@@||apple-relay.apple.com^$important
+@@||*.icloud.com.cn^$important
+@@||*.icloud.apple.com^$important
+@@||*.icloud-content.com^$important
+@@||*.iwork.apple.com^$important
+@@||mask.icloud.com^$important
+@@||mask-h2.icloud.com^$important
+@@||mask-api.icloud.com^$important

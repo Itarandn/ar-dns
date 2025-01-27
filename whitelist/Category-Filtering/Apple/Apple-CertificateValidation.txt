@@ -1,0 +1,13 @@
+# Apple : Certificate validation
+# CR : https://support.apple.com/en-us/101555
+# 27/1/2025
+# Apple devices must be able to connect to the following hosts to validate digital certificates used by the hosts in this article.
+@@||certs.apple.com^$important
+@@||crl.apple.com^$important
+@@||crl3.digicert.com^$important
+@@||crl4.digicert.com^$important
+@@||ocsp.apple.com^$important
+@@||ocsp.digicert.cn^$important
+@@||ocsp.digicert.com^$important
+@@||ocsp2.apple.com^$important
+@@||valid.apple.com^$important
