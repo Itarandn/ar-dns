@@ -5,3 +5,4 @@
 @@||gsp85-ssl.ls2-apple.com.akadns.net^$important
 @@||gsp85-ssl.ls.apple.com^$important
 @@||e17437.dsct.akamaiedge.net^$important
+@@||lcdn-locator-usms11.apple.com.akadns.net^$important
