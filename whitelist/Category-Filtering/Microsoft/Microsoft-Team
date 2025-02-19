@@ -1,0 +1,45 @@
+! Microsoft - Team
+!(NCSI) Network Connection Status Indicator
+! ------------------------------------------
+! #  #
+! Article 19/02/2025
+! 
+@@||www.msftncsi.com^
+@@||www.msftconnecttest.com^
+@@||msftncsi.com^
+@@||www.msftncsi.com^
+@@||ipv6.msftncsi.com^
+@@||g.live.com^
+@@||c.s-microsoft.com^
+@@||i.s-microsoft.com^
+@@||login.live.com^
+@@||login.microsoftonline.com^
+@@||dl.delivery.mp.microsoft.com^
+@@||geo-prod.do.dsp.mp.microsoft.com^
+@@||displaycatalog.mp.microsoft.com^
+@@||sls.update.microsoft.com.akadns.net^
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
+@@||tlu.dl.delivery.mp.microsoft.com^
+@@||msedge.api.cdp.microsoft.com^
+@@||clientconfig.passport.net^
+@@||v10.events.data.microsoft.com^
+@@||v20.events.data.microsoft.com^
+@@||client-s.gateway.messenger.live.com^
+@@||dev.virtualearth.net^
+@@||ecn.dev.virtualearth.net^
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^
+@@||t0.ssl.ak.tiles.virtualearth.net^
+@@||s.gateway.messenger.live.com^
+@@||client-s.gateway.messenger.live.com^
+@@||ui.skype.com pricelist.skype.com^
+@@||apps.skype.com m.hotmail.com^
+@@||sa.symcb.com^
+@@||s1.symcb.com^
+@@||s2.symcb.com^
+@@||s3.symcb.com^
+@@||s4.symcb.com^
+@@||s5.symcb.com^
+@@||teams.microsoft.com^$important
+@@||login.microsoftonline.com^$important
+@@||login.live.com^$important
+@@||trafficmanager.net^$important
