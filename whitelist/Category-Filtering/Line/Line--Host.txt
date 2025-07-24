@@ -1,0 +1,16 @@
+! Resource : 
+! Catagorie : Linr
+! Updates --  Linr
+! tag : Linr
+! lastupdate : 24-July-2025
+! ---------------------------------------------------------------------------------------
+@@|crs-event.line.me^$important
+@@|a.line.me^$important
+@@|linecrs.line-scdn.net^$important
+@@|ad.line-scdn.net^$important
+@@|uts-front.line-apps.com^$important
+@@|legy.line-apps.com^$important
+@@|stickershop.line-scdn.net^$important
+@@|xxx^$important
+@@|xxx^$important
+! ---------------------------------------------------------------------------------------
