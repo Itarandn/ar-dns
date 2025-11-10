@@ -97,3 +97,7 @@
 @@||asia-news-abroad.vivo.com^$important
 @@||asia-wifi.vivoglobal.com^$important
 @@||mobile-apps.booking.com^$important
+@@||asia-exappupgrade.vivoglobal.com^$important
+@@||asia-st-exappupgrade.vivoglobal.com^$important
+@@||asia-vcode-or.vivoglobal.com^$important
+@@||asia-vcode-api.vivoglobal.com^$important
