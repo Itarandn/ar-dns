@@ -101,3 +101,7 @@
 @@||asia-st-exappupgrade.vivoglobal.com^$important
 @@||asia-vcode-or.vivoglobal.com^$important
 @@||asia-vcode-api.vivoglobal.com^$important
+@@||asia-abeacdataort-stsdk.vivoglobal.com^$important
+@@||asia-st-exappupgrade.vivoglobal.com^$important
+@@||asia-vcode-or.vivoglobal.com^$important
+@@||asia-main-appstore.vivoglobal.com^$important
