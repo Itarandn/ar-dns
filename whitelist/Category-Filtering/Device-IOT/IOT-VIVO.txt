@@ -109,3 +109,4 @@
 @@||asia-config-appstore.vivoglobal.com^$important
 @@||asia-sysupgrade-api.vivoglobal.com^$important
 @@||asia-st-sysupgrade.vivoglobal.com^$important
+@@||asia-update-appstore.vivoglobal.com^$important
