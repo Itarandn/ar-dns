@@ -112,3 +112,4 @@
 @@||asia-update-appstore.vivoglobal.com^$important
 @@||asia-weather.vivoglobal.com^$important
 @@||vivo.telemetry.eyeo.com^$important
+@@||asia-md.vivoglobal.com^$important
