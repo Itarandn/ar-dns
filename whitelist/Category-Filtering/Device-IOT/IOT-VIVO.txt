@@ -107,3 +107,4 @@
 @@||asia-exappupgrade.vivoglobal.com^$important
 @@||asia-sms-api.vivoglobal.com^$important
 @@||asia-config-appstore.vivoglobal.com^$important
+@@||asia-sysupgrade-api.vivoglobal.com^$important
