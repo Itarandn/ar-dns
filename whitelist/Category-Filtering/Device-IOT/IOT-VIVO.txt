@@ -126,7 +126,7 @@
 @@||asia-update-appstore.vivoglobal.com^$important
 @@||asia-rommc-api.vivoglobal.com^$important
 @@||in-third-appstore.vivoglobal.com^$important
-@@||xxxxx^$important
+@@||asia-news-abroad-backstage-interface.vivoglobal.com^$important
 @@||xxxxx^$important
 @@||xxxxx^$important
 @@||xxxxx^$important
