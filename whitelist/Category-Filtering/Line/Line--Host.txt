@@ -11,6 +11,7 @@
 @@|uts-front.line-apps.com^$important
 @@|legy.line-apps.com^$important
 @@|stickershop.line-scdn.net^$important
+@@|pagepoker.line-scdn.net^$important
 @@|xxx^$important
-@@|xxx^$important
+
 ! ---------------------------------------------------------------------------------------
