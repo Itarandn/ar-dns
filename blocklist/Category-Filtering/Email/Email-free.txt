@@ -5,7 +5,17 @@
 ! tag : Yahoo
 ! lastupdate : 08-APR-2026
 ! ---------------------------------------------------------------------------------------
+!
+! Yahoo
 ||mail.yahoo.com^
 ||smtp.mail.yahoo.com^
-||pop.mail.yahoo.com^
+||pop.mail.yahoo.com^.
+!
+! Gmail
+||mail.google.com^
+||smtp.mail.google.com^
+||pop.mail.google.com^
+||gmail.com^
+||imap.gmail.com^
+||accounts.google.com^
 ! ---------------------------------------------------------------------------------------
