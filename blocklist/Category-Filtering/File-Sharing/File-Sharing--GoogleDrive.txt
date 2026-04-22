@@ -1,0 +1,11 @@
+! Resource : xxxx
+! Catagorie : File Sharing
+! File Sharing --  Google Drive APPLICATION
+! tag : file-sharing
+! lastupdate : 23-JAN-2024
+! ---------------------------------------------------------------------------------------
+||drive.google.com.com^
+||docs.google.com^
+||*.googleusercontent.com^
+||drive-thirdparty.googleusercontent.com^
+! ---------------------------------------------------------------------------------------
