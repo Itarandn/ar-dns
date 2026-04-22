@@ -8,4 +8,6 @@
 ||docs.google.com^
 ||*.googleusercontent.com^
 ||drive-thirdparty.googleusercontent.com^
+||accounts.google.com
+||dl.google.com^
 ! ---------------------------------------------------------------------------------------
