@@ -18,4 +18,5 @@
 ||gmail.com^
 ||imap.gmail.com^
 ||accounts.google.com^
+||workspace.google.com^
 ! ---------------------------------------------------------------------------------------
