@@ -28,7 +28,7 @@
 ||play.google.com^
 ||blog.google.com^
 ! ---------------------------------------------------------------------------------------
-! --- Microsoft 365 & Outlook Whitelist ---
+! --- Microsoft 365 & Outlook list ---
 ||outlook.office365.com^
 ||outlook.office.com^
 ||outlook.com^
@@ -41,4 +41,13 @@
 ||sharepoint.com^
 ||msftauth.net^
 ||msauth.net^
+! ---------------------------------------------------------------------------------------
+! --- Yahoo Services list ---
+||yahoo.com^
+||yimg.com^
+||yahooapis.com^
+||mail.yahoo.com^
+||my.yahoo.com^
+||guce.yahoo.com^
+||login.yahoo.com^
 ! ---------------------------------------------------------------------------------------
