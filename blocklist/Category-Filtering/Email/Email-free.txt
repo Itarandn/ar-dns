@@ -28,3 +28,17 @@
 ||play.google.com^
 ||blog.google.com^
 ! ---------------------------------------------------------------------------------------
+! --- Microsoft 365 & Outlook Whitelist ---
+||outlook.office365.com^
+||outlook.office.com^
+||outlook.com^
+||hotmail.com^
+||live.com^
+||login.microsoftonline.com^
+||login.live.com^
+||portal.office.com^
+||microsoft365.com^
+||sharepoint.com^
+||msftauth.net^
+||msauth.net^
+! ---------------------------------------------------------------------------------------
