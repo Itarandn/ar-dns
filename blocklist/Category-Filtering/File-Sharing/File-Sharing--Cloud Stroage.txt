@@ -1,0 +1,32 @@
+! Resource : https://www.netify.ai/resources/applications/dropbox
+! Catagorie : File Sharing
+! File Sharing --  Cloud Storage
+! tag : file-sharing
+! lastupdate : 23-APR-2026
+! ---------------------------------------------------------------------------------------
+! --- Cloud Storage list ---
+! Google Drive
+||drive.google.com^
+||clients6.google.com^
+||docs.google.com^
+! ---------------------------------------------------------------------------------------
+! --- iCloud ---
+||icloud.com^
+||icloud-content.com^
+||apple-cloudkit.com^
+! ---------------------------------------------------------------------------------------
+! --- Dropbox ---
+||dropbox.com^
+||dropboxapi.com^
+||dropboxstatic.com^
+! ---------------------------------------------------------------------------------------
+! --- OneDrive ---
+||onedrive.live.com^
+||1drv.ms^
+||storage.live.com^
+||skyapi.onedrive.com^
+! ---------------------------------------------------------------------------------------
+! General / Shared Cloud (Common CDNs)
+||box.com^
+||pcloud.com^
+||mega.nz^
