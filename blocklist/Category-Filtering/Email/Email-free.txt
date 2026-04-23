@@ -18,5 +18,13 @@
 ||gmail.com^
 ||imap.gmail.com^
 ||accounts.google.com^
+||accounts.google.com/v3/signin^
+||https://accounts.google.com/v3/signin^
 ||workspace.google.com^
+||googleusercontent.com^
+||gstatic.com^
+||googleapis.com^
+||support.google.com^
+||play.google.com^
+||blog.google.com^
 ! ---------------------------------------------------------------------------------------
