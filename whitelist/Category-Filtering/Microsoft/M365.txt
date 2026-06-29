@@ -1,0 +1,111 @@
+! -------------------
+! Windows 11 Enterprise
+! Diagnostic Data Article 06/24/2023
+! Protocal : TLSv1.2/HTTP
+! 	The following endpoints are used by the Connected User Experiences and Telemetry component and connects to the Microsoft Data Management service. If you turn off traffic for this endpoint, diagnostic and usage information, 
+! which helps Microsoft find and fix problems and improve our products and services, won't be sent back to Microsof
+! https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+! -------------------
+||self.events.data.microsoft.com^
+||v10.events.data.microsoft.com^
+||telecommand.telemetry.microsoft.com^
+||watson.*.microsoft.com^
+||www.telecommandsvc.microsoft.com
+! ***********************************
+! -------------------
+# Host-Microsoft 365 # 29JUN2026
+@@||outlook.office.com^$important
+@@||*.outlook.office.com^$important
+@@||outlook.office365.com^$important
+@@||*.outlook.office.com^$important
+@@||smtp.office365.com^$important
+@@||r1.res.office365.com^$important
+@@||r3.res.office365.com^$important
+@@||r4.res.office365.com^$important
+@@||*.outlook.com^$important
+@@||*.outlook.office.com^$important
+@@||attachments.office.net^$important
+@@||*.protection.outlook.com^$important
+@@||*.mail.protection.outlook.com^$important
+@@||storage.live.com^$important
+@@||admin.onedrive.com^$important
+@@||officeclient.microsoft.com^$important
+@@||*.sharepointonline.com^$important
+@@||cdn.sharepointonline.com^$important
+@@||privatecdn.sharepointonline.com^$important
+@@||publiccdn.sharepointonline.com^$important
+@@||spoprod-a.akamaihd.net^$important
+@@||static.sharepointonline.com^$important
+@@||teams.microsoft.com^$important
+@@||*.lync.com^$important
+@@||*.teams.microsoft.com^$important
+@@||broadcast.skype.com^$important
+@@||*.broadcast.skype.com^$important
+@@||*.sfbassets.com^$important
+@@||*.urlp.sfbassets.com^$important
+@@||skypemaprdsitus.trafficmanager.net^$important
+@@||*.keydelivery.mediaservices.windows.net^$important
+@@||*.msecnd.net^$important
+@@||*.streaming.mediaservices.windows.net^$important
+@@||ajax.aspnetcdn.com^$important
+@@||mlccdn.blob.core.windows.net^$important
+@@||aka.ms^$important
+@@||amp.azure.net^$important
+@@||*.users.storage.live.com^$important
+@@||*.skypeforbusiness.com^$important
+@@||*.msedge.net^$important
+@@||compass-ssl.microsoft.com^$important
+@@||*.tenor.com^$important
+@@||*.skype.com^$important
+@@||ajax.aspnetcdn.com^$important
+@@||r3.res.outlook.com^$important
+@@||spoprod-a.akamaihd.net^$important
+@@||*.api.microsoftstream.com^$important
+@@||*.notification.api.microsoftstream.com^$important
+@@||api.microsoftstream.com^$important
+@@||web.microsoftstream.com^$important
+@@||*.azureedge.net^$important
+@@||*.media.azure.net^$important
+@@||*.officeapps.live.com^$important
+@@||*.online.office.com^$important
+@@||office.live.com^$important
+@@||*.onenote.com^$important
+@@||*.office.net^$important
+@@||*cdn.onenote.net^$important
+@@||*.msftidentity.com^$important
+@@||*.msidentity.com^$important
+@@||account.activedirectory.windowsazure.com^$important
+@@||accounts.accesscontrol.windows.net^$important
+@@||adminwebservice.microsoftonline.com^$important
+@@||api.passwordreset.microsoftonline.com^$important
+@@||autologon.microsoftazuread-sso.com^$important
+@@||becws.microsoftonline.com^$important
+@@||clientconfig.microsoftonline-p.net^$important
+@@||companymanager.microsoftonline.com^$important
+@@||device.login.microsoftonline.com^$important
+@@||graph.microsoft.com^$important
+@@||graph.windows.net^$important
+@@||login.microsoft.com^$important
+@@||login.microsoftonline.com^$important
+@@||login.microsoftonline-p.com^$important
+@@||login.windows.net^$important
+@@||logincert.microsoftonline.com^$important
+@@||loginex.microsoftonline.com^$important
+@@||login-us.microsoftonline.com^$important
+@@||nexus.microsoftonline-p.com^$important
+@@||passwordreset.microsoftonline.com^$important
+@@||provisioningapi.microsoftonline.com^$important
+@@||logincdn.msauth.net^$important
+@@||main.iam.ad.ext.azure.com^$important
+@@||*.manage.office.com^$important
+@@||*.protection.office.com^$important
+@@||manage.office.com^$important
+@@||protection.office.com^$important
+@@||*.portal.cloudappsecurity.com^$important
+@@||account.office.net^$important
+@@||admin.microsoft.com^$important
+@@||home.office.com^$important
+@@||portal.office.com^$important
+@@||www.office.com^$important
+@@||suite.office.net^$important
+@@||mlccdn.blob.core.windows.net^$important
